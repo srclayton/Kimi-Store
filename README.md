@@ -1,4 +1,4 @@
-# Kimi-Store
+# Kimi-Store        https://srclayton.github.io/Kimi-Store/
  
 Outro exemplo de loja online, mas desta vez estou utilizando o framework materialize.
 
