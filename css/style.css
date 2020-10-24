@@ -45,29 +45,29 @@ p {
 
 @media only screen and (min-width : 993px){
   .my-card-content{width: 173%; background-color: rgba(255, 255, 255, 0); font-size: 30px;}
-  
+
 }
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
     top: 40%;
   }
-  
+
   #index-banner .section {
     top: 10%;
   }
   .my-card-content{width: 173%; background-color: rgba(255, 255, 255, 0); }
-  
+
 }
 
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
   }
-  
+
   .btn-valor-large,.btn-valor-large:focus{height: 30px;}
   .my-card-content{width: 110%; margin-left: -5%; background-color: rgba(255, 255, 255, 0);}
-  
+
 }
 
 .icon-block {
@@ -114,7 +114,3 @@ footer.page-footer {
   border: 1px solid black;
   margin: 10px;
 }
-
-
-
-
